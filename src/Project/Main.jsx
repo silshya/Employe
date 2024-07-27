@@ -53,6 +53,7 @@ const Main = () => {
       <div style={{ width:"10%",margin:'10px'}}>
      <button style={{color:"white", backgroundColor:'blue'}} onClick={navigateToCreate}>Create Empolye</button>
       </div>
+      
         <Table striped bordered hover>
       <thead>
         <tr>
